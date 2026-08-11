@@ -42,3 +42,21 @@
 [稍详细一点](002.md)
 
 [再抽象一点](001.md)
+
+---
+
+# License
+
+This project is licensed under the following terms:
+
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
+**CC BY-NC-ND 4.0**  
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+* Redistribution and citation are permitted
+* Commercial use is prohibited
+* Modification and derivative works are prohibited
+
+For adaptations or derivative use, please contact the author via [email](mailto:hutu2025@proton.me) to obtain written permission.  
+For discussion with the author, please use the Discussions feature on [GitHub](https://github.com/NeverWitness/self-from-coupled-predictive-loops/).  
+See the LICENSE file for details.
