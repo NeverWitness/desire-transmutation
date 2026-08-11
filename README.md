@@ -42,11 +42,11 @@ English translation followed
 
 **一句话：修行，就是让欲望存在，却不再让欲望继续制造欲望。**
 
-[稍详细一点] (002.md)
+[稍详细一点](002.md)
 
-[再抽象一点] (001.md)
+[再抽象一点](001.md)
 
-[哲学基础：人的三种欲望（待施工）] (https://github.com/NeverWitness/three-human-desires)
+[哲学基础：人的三种欲望（待施工）](https://github.com/NeverWitness/three-human-desires)
 
 ---
 
@@ -89,11 +89,11 @@ Understanding cannot replace practice, but clearer understanding can help people
 
 **In one sentence: spiritual practice means allowing desire to exist without allowing desire to keep creating more desire. **
 
-[a little more details] (002_en.md)
+[a little more details](002_en.md)
 
-[or more abstract] (001_en.md)
+[or more abstract](001_en.md)
 
-[philosophy foundations: three human desires (under construction)] (https://github.com/NeverWitness/three-human-desires)
+[philosophy foundations: three human desires (under construction)](https://github.com/NeverWitness/three-human-desires)
 
 ---
 
