@@ -1,6 +1,6 @@
 # 2026年8月11日，我勘破了一切修行的秘密
 
-# I Have Seen Through the Secret of All Spiritual Practice
+# August 11 2026, I Have Seen Through the Secret of All Spiritual Practice
 English translation followed
 
 修行不是消灭欲望，而是主动改变欲望的去向。
