@@ -79,9 +79,12 @@ Real practice redirects possessive desire into forms that do not keep creating m
 
 > control → observation
 
+
 > possession → experience
 
+
 > taking → creation
+
 
 > domination → understanding
 
