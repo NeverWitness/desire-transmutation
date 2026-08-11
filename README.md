@@ -1,5 +1,8 @@
 # 2026年8月11日，我勘破了一切修行的秘密
 
+# I Have Seen Through the Secret of All Spiritual Practice
+English translation followed
+
 修行不是消灭欲望，而是主动改变欲望的去向。
 
 人身上可以（借用男女关系）粗略分成三种动力：
@@ -42,6 +45,51 @@
 [稍详细一点](002.md)
 
 [再抽象一点](001.md)
+
+---
+
+Spiritual practice is not about eliminating desire, but intentionally changing where desire goes.
+
+Human motivation (terms borrowed from romantic relationship) can be roughly divided into three kinds:
+
+* **Sexual drive**: the body’s need to maintain vitality.
+* **Possessive desire**: the need to make yourself, other people, or the world follow your will.
+* **Loving desire**: the desire to experience what is good on equal terms and let that goodness flow outward.
+
+Spiritual practice mainly works on **possessive desire**.
+
+Its biggest problem is that it reproduces itself:
+
+> want → get → want more
+
+Simply suppressing it does not solve the problem.
+
+Stop chasing love and chase money instead.
+Stop chasing money and chase status.
+Stop chasing status and chase “enlightenment.”
+
+If the structure underneath is still “I must get it,” this is only **substitution**.
+
+Real practice redirects possessive desire into forms that do not keep creating more of it:
+
+> control → observation
+> possession → experience
+> taking → creation
+> domination → understanding
+
+Desire still exists, but it stops multiplying itself.
+
+That is why deep practice can look like “desirelessness.”
+
+This does not reject or replace traditional spiritual practice. It is simply a modern way to understand what practice may be doing underneath.
+
+Understanding cannot replace practice, but clearer understanding can help people waste less time and practice more effectively.
+
+**In one sentence: spiritual practice means allowing desire to exist without allowing desire to keep creating more desire.**
+
+[a little more details](002_en.md)
+
+[or more abstract](001_en.md)
 
 ---
 
