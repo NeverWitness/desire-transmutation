@@ -78,8 +78,11 @@ If the structure underneath is still “I must get it,” this is only **substit
 Real practice redirects possessive desire into forms that do not keep creating more of it:
 
 > control → observation
+
 > possession → experience
+
 > taking → creation
+
 > domination → understanding
 
 Desire still exists, but it stops multiplying itself.
