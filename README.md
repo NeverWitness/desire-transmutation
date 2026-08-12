@@ -4,7 +4,9 @@
 English translation followed
 
 > 这个“秘密”不是一种新的修行方法，而是对那些**本来就有效的修行方法为什么有效**的解释。
+> 
 > 它不能替代修行，只希望降低理解门槛，让现代人更快、更好地进入修行。
+> 
 > 这里的“修行”不限于宗教和神秘学，也包括现代心理训练、冥想、自我训练等体系。
 
 **修行不是消灭欲望，而是主动调整欲望的结构。**
@@ -56,7 +58,9 @@ English translation followed
 ---
 
 > This “secret” is not a new method of practice. It is an explanation of **why practices that already work actually work**.
+> 
 > It cannot replace practice itself. Its purpose is simply to lower the barrier to understanding, so that modern people can enter into practice more quickly and effectively.
+> 
 > Here, “practice” is not limited to religion or mysticism. It also includes modern psychological training, meditation, self-training, and similar systems.
 
 **Practice is not about eliminating desire. It is about deliberately changing the structure of desire.**
