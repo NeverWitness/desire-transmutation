@@ -35,8 +35,11 @@ English translation followed
 真正的修行，是让情欲换一种不会继续制造情欲的表达方式：
 
 > 控制 → 观察
+> 
 > 占有 → 感受
+> 
 > 索取 → 创造
+> 
 > 支配 → 理解
 
 欲望仍然存在，也得到了表达，却不再不断制造新的欲望。
@@ -89,8 +92,11 @@ If the object changes but the underlying structure is still **“I must get it,�
 Real practice redirects the Control Drive into forms of expression that do not keep producing more of the same drive:
 
 > Control → Observe
+> 
 > Possess → Experience
+> 
 > Demand → Create
+> 
 > Dominate → Understand
 
 Desire still exists, and it still finds expression, but it no longer keeps generating more desire.
