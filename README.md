@@ -56,7 +56,7 @@ English translation followed
 
 [再抽象一点](001.md)
 
-[哲学基础：人的三种欲望（待施工）](https://github.com/NeverWitness/three-human-desires)
+[Gitlink镜像 哲学基础：人的三种欲望（施工中，可以先看概述）](https://gitlink.org.cn/neverwitness/desire-transmutation) [GitHub](https://github.com/NeverWitness/three-human-desires)
 
 ---
 
@@ -113,7 +113,7 @@ This does not reject or replace any traditional or modern system of practice. It
 
 [or more abstract](001_en.md)
 
-[philosophy foundations: three human desires (under construction)](https://github.com/NeverWitness/three-human-desires)
+[GitHub philosophy foundations: three human desires (under construction)](https://github.com/NeverWitness/three-human-desires) [Gitlink mirror](https://gitlink.org.cn/neverwitness/desire-transmutation))
 
 ---
 
