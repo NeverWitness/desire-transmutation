@@ -113,7 +113,7 @@ This does not reject or replace any traditional or modern system of practice. It
 
 [or more abstract](001_en.md)
 
-[GitHub philosophy foundations: three human desires (under construction)](https://github.com/NeverWitness/three-human-desires) [Gitlink mirror](https://gitlink.org.cn/neverwitness/desire-transmutation))
+[GitHub philosophy foundations: three human desires (under construction)](https://github.com/NeverWitness/three-human-desires) [Gitlink mirror](https://gitlink.org.cn/neverwitness/desire-transmutation)
 
 ---
 
