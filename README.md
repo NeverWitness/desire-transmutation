@@ -1,6 +1,6 @@
-# 2026年8月11日，我勘破了一切修行的秘密
+# 勘破一切修行的秘密
 
-# August 11 2026, I Have Seen Through the Secret of All Spiritual Practice
+# See Through the Secret of All Spiritual Practice
 English translation followed
 
 > 这个“秘密”不是一种新的修行方法，而是对那些**本来就有效的修行方法为什么有效**的解释。
@@ -51,6 +51,8 @@ English translation followed
 这不是在否定任何传统或现代修行体系，而是在尝试解释它们可能共同作用的底层机制。
 
 **理解不能替代修行，但理解得越清楚，就越可能少走弯路。**
+
+2026年8月11日
 
 [稍详细一点](002.md)
 
@@ -108,6 +110,8 @@ This is why, as practice deepens, a person may increasingly appear to be “free
 This does not reject or replace any traditional or modern system of practice. It is an attempt to explain a possible underlying mechanism shared by practices that work.
 
 **Understanding cannot replace practice. But the clearer the understanding, the fewer unnecessary detours one may have to take.**
+
+August 11th, 2026
 
 [a little more details](002_en.md)
 
